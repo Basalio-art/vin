@@ -2,7 +2,7 @@ lottie.loadAnimation ({
     container: document.getElementById('v-logo'),
     loop: true,
     autoplay: true,
-    path: 'https:/Basalio-art.github.io/vin/assets/json/data.json',
+    path: 'https://raw.githubusercontent.com/Basalio-art/vin/refs/heads/main/assets/json/data.json',
     renderer: 'svg'
 });
 
